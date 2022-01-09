@@ -1,0 +1,15 @@
+*{
+    background: rgb(91, 53, 126);
+}
+
+.block{
+    height: 100vh;
+}
+
+label{
+    font-size: 15px;
+}
+button {
+    background-color: rgb(68, 33, 221);
+    color: rgb(74, 173, 127);
+} 
